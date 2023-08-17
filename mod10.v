@@ -1,3 +1,5 @@
+// first force clr=0. Then no force clr;
+
 module mod10(c,cn,clk,clr);
 input clk,clr;
 output [3:0]c,cn;
